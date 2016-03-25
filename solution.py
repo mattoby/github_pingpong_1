@@ -11,4 +11,10 @@ class Solution(object):
         i = 0
         j = 0
         
+        '''
+            Hold a pointer to the last time we found a valid additive sum
+        '''
+        for i in xrange(n):
+            
+        
         
