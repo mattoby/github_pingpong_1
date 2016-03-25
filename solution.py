@@ -14,7 +14,7 @@ class Solution(object):
         '''
             Hold a pointer to the last time we found a valid additive sum
         '''
-        for i in xrange(n):
+        for k in xrange(n):
             
         
         
