@@ -7,4 +7,8 @@ class Solution(object):
         if not nums or len(nums) <= 2:
             return False
         
+        n = len(nums)
+        i = 0
+        j = 0
+        
         
