@@ -4,7 +4,7 @@ class Solution(object):
         :type num: str
         :rtype: bool
         """
-        if not nums or len(nums) <= 3:
+        if not nums or len(nums) <= 2:
             return False
         
         
